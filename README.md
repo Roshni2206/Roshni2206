@@ -129,13 +129,6 @@ Built and shipped a production LLM chatbot with real-world client usage during a
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshni2206&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni2206&layout=compact&hide_border=true&theme=default&hide=jupyter%20notebook,html,css,javascript" height="160"/>
-</p>
 
 ---
 
