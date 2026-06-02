@@ -147,6 +147,6 @@ Built and shipped a production LLM chatbot with real-world client usage during a
 ---
 
 <p align="center">
-  <b>Open to full-time AI/ML Engineer roles — feel free to reach out!</b><br/>
-  <a href="mailto:YOUR_EMAIL_HERE">YOUR_EMAIL_HERE</a> &nbsp;·&nbsp; <a href="YOUR_LINKEDIN_URL_HERE">LinkedIn</a>
+  <b>Open to full-time Opportunities — feel free to reach out!</b><br/>
+  <a href="mailto:roshnibhat76@gmail.com">roshnibhat76@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/roshni-81a163229/">LinkedIn</a>
 </p>
