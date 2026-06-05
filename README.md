@@ -113,7 +113,7 @@ Fresh out of my degree in 2025, I've already shipped a production-style LLM chat
 
 **Stack:** Python · XGBoost · SHAP · UMAP · Scikit-learn · Streamlit · Docker
 
-`🚧 Repo will be live soon`
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Roshni2206/Cancer-Gene-Classifier)
 
 ---
 
