@@ -100,7 +100,7 @@ Fresh out of my degree in 2025, I've already shipped a production-style LLM chat
 
 **Stack:** Python · Pandas · Matplotlib · Seaborn · Cytoscape
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Roshni2206/Genomic-Analysis-Liver-Metastasis)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Roshni2206/Genomic-analysis)
 
 ---
 
